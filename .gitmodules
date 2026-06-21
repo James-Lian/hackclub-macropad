@@ -1,3 +1,6 @@
 [submodule "macropad/kicad_care_package"]
 	path = macropad/kicad_care_package
 	url = C:/Users/james/Libraries/kicad_care_package
+[submodule "macropad/rotary_encoder"]
+	path = macropad/rotary_encoder
+	url = C:/Users/james/Libraries/rotary_encoder
