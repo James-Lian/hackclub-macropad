@@ -2256,7 +2256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 107.95 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2960,7 +2960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 129.54 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -3192,7 +3192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 64.77 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3376,7 +3376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 86.36 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3456,7 +3456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 86.36 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -3536,7 +3536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 129.54 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 107.95 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -3876,7 +3876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 129.54 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -4122,7 +4122,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 107.95 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4410,7 +4410,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 64.77 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -4670,7 +4670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 64.77 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4854,7 +4854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 			(at 86.36 99.06 0)
 			(hide yes)
 			(show_name no)

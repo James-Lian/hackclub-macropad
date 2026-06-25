@@ -3147,7 +3147,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "0a2c2b9e-3d56-426d-9f36-ba439152757d")
 		(at 112.0775 71.12)
@@ -3428,6 +3428,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3438,8 +3439,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "1798253a-b197-4087-b907-108e43479713")
 		(at 112.0775 52.07)
@@ -3720,6 +3732,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3728,6 +3741,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -3847,7 +3871,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "22ae0f7c-d7c2-4023-a235-af18f4b00fbf")
 		(at 150.1775 90.17)
@@ -4128,6 +4152,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4138,8 +4163,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "22b34625-a690-4de6-b9b0-b482cc622f49")
 		(at 93.0275 52.07)
@@ -4420,6 +4456,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4430,8 +4467,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "341dbd9c-f523-4b07-a5d6-51f49f3d78e9")
 		(at 93.0275 90.17)
@@ -4712,6 +4760,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4720,6 +4769,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -4839,7 +4899,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "4bbd579a-37ff-4e79-ba50-c63cfdf76552")
 		(at 112.0775 90.17)
@@ -5120,6 +5180,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5130,8 +5191,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "5720017d-86ba-4acc-9cd3-0be9453215f6")
 		(at 93.0275 71.12)
@@ -5412,6 +5484,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5420,6 +5493,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -5877,7 +5961,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "882f762f-1dd0-44f7-b41f-692abc7621ca")
 		(at 150.1775 71.12)
@@ -6158,6 +6242,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6166,6 +6251,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -6708,7 +6804,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "9c43d4a0-e613-4ccf-bd32-5fa36239af73")
 		(at 131.1275 90.17)
@@ -6989,6 +7085,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6999,8 +7096,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "b75dc9b9-1e2b-43c2-9e91-f3e5404805b5")
 		(at 131.1275 52.07)
@@ -7281,6 +7389,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7289,6 +7398,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
@@ -7408,7 +7528,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "f5091cb8-5d40-4aeb-a5a6-f905e45551a7")
 		(at 150.1775 52.07)
@@ -7689,6 +7809,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7699,8 +7820,19 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "footprints:SW_Cherry_MX_1.00u_PCB_(3D_STEP)"
 		(layer "F.Cu")
 		(uuid "facef8ec-aeec-412b-bdac-d110968cba10")
 		(at 131.1275 71.12)
@@ -7981,6 +8113,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7989,6 +8122,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/kicad_care_package/MX .STEP"
+			(offset
+				(xyz 4.75 2.25 5.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
 			)
 		)
 	)
