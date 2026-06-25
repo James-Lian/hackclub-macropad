@@ -4934,7 +4934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
+		(property "Footprint" "footprints:ER_OLEDM0.91_1x-I2C_(3D_STEP)"
 			(at 63.5 165.354 0)
 			(hide yes)
 			(show_name no)
